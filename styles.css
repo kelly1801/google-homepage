@@ -1,0 +1,169 @@
+
+img{
+ margin-top: 55px;
+ margin-left: 547px;
+ margin-right: 547px;
+  }
+
+  input{
+    display: flex;
+    width: 570px;
+    height: 45px;
+    margin-left: 390px;
+    margin-right: 547px;
+    margin-top: 30px;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+    align-items: center;
+
+     }
+   
+     
+
+      
+      #button1{
+        height: 33px;
+      width: 120px;
+      background-color: whitesmoke ;
+      margin-top: 20px;
+      margin-left: 560px;
+      display:inline-block;
+      font-family: sans-serif;
+      background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+
+      }
+      #button2{
+        
+        
+        height: 33px;
+        width: 120px;
+    
+      margin-top: 20px;
+      
+      background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+        
+      }
+    
+      #top-nav{
+       
+    
+        margin-top: 30px;
+        width: 100%;
+        background-color: white;
+        display: flex;
+       justify-content: right;
+       text-align: right;
+       margin-left: -7.5em;
+       font-size: 16px;
+       font-family:sans-serif;
+       display: inline-block;
+      
+ }
+      a{
+        text-decoration: none;
+        color: black;
+        font-size: 12px;
+        font-family: sans-serif;
+        
+  
+      
+      
+      }
+      #imgs{
+       
+        
+       
+       
+
+      }
+
+      #icon{
+       
+        width: 20px;
+        height: 20px;
+        display: flex;
+      align-items: flex-end;
+      margin-left: 1380px;
+      margin-top: -20px;
+        
+ }
+
+ #top{
+       
+  width: 23px;
+  height: 23px;
+  display: flex;
+      align-items: flex-end;
+      margin-left: 1420px;
+      margin-top: -20px;
+ 
+}
+#gmail{
+       
+  border: 2px solid transparent;
+  border-radius: 5px;
+  padding-right: 11px;
+ 
+ 
+}
+
+#images{
+       
+  border: 2px solid transparent;
+  border-radius: 5px;
+  padding-right: 11px;
+ 
+ 
+}
+ 
+
+#footer-left{
+  display: flex;     
+  justify-content: left;
+display: inline-block;
+bottom: 0;
+ 
+position: fixed;
+background-color: whitesmoke;
+height: 50px;
+width: 100%;
+margin-left: -0.5%;
+padding-top: 10px;
+ 
+}
+
+#footer-right{
+
+ 
+  
+
+  justify-content: right;
+  bottom: 0;
+ position: fixed;
+ float: left;
+  margin-left: 1200px;
+  background-color: whitesmoke;
+height: 50px;
+width: 19%;
+padding-top: 10px;
+ 
+  
+}    
+    
+      
+      
+#a, #b, #c, #d, #e {
+  
+       
+  border: 2px solid transparent;
+  border-radius: 5px;
+  padding-right: 10px;
+  padding-top: 11px;
+ 
+ 
+}
+      
